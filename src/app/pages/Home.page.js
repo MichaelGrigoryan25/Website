@@ -39,7 +39,7 @@ const Home = () => {
             <Center>
               <Avatar
                 size={"xl"}
-                src={"/assets/me.png"}
+                src={"https://avatars.githubusercontent.com/u/56165400?v=4"}
                 name={"Michael Grigoryan"}
               />
             </Center>
